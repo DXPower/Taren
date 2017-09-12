@@ -1,0 +1,4 @@
+﻿  Player.cpp
+c:\vs projects\taren\taren\player.cpp(90): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+c:\vs projects\taren\taren\player.cpp(93): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+  Taren.vcxproj -> C:\VS Projects\Taren\Debug\Taren.exe
